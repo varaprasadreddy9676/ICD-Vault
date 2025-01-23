@@ -1,0 +1,1604 @@
+[
+  {
+    "section_id": 1,
+    "chapter_id": 1,
+    "section_description": "Gastroenteritis or colitis of infectious origin",
+    "block_id": "BlockL1-1A0"
+  },
+  {
+    "section_id": 2,
+    "chapter_id": 1,
+    "section_description": "Predominantly sexually transmitted infections",
+    "block_id": "BlockL1-1A6"
+  },
+  {
+    "section_id": 3,
+    "chapter_id": 1,
+    "section_description": "Mycobacterial diseases",
+    "block_id": "BlockL1-1B1"
+  },
+  {
+    "section_id": 4,
+    "chapter_id": 1,
+    "section_description": "Certain staphylococcal or streptococcal diseases",
+    "block_id": "BlockL1-1B4"
+  },
+  {
+    "section_id": 5,
+    "chapter_id": 1,
+    "section_description": "Pyogenic bacterial infections of the skin or subcutaneous tissues",
+    "block_id": "BlockL1-1B7"
+  },
+  {
+    "section_id": 6,
+    "chapter_id": 1,
+    "section_description": "Certain zoonotic bacterial diseases",
+    "block_id": "BlockL1-1B9"
+  },
+  {
+    "section_id": 7,
+    "chapter_id": 1,
+    "section_description": "Other bacterial diseases",
+    "block_id": "BlockL1-1C1"
+  },
+  {
+    "section_id": 8,
+    "chapter_id": 1,
+    "section_description": "Human immunodeficiency virus disease",
+    "block_id": "BlockL1-1C6"
+  },
+  {
+    "section_id": 9,
+    "chapter_id": 1,
+    "section_description": "Viral infections of the central nervous system",
+    "block_id": "BlockL1-1C8"
+  },
+  {
+    "section_id": 10,
+    "chapter_id": 1,
+    "section_description": "Non-viral and unspecified infections of the central nervous system",
+    "block_id": "BlockL1-1D0"
+  },
+  {
+    "section_id": 11,
+    "chapter_id": 1,
+    "section_description": "Dengue",
+    "block_id": "BlockL1-1D2"
+  },
+  {
+    "section_id": 12,
+    "chapter_id": 1,
+    "section_description": "Certain arthropod-borne viral fevers",
+    "block_id": "BlockL1-1D4"
+  },
+  {
+    "section_id": 13,
+    "chapter_id": 1,
+    "section_description": "Certain zoonotic viral diseases",
+    "block_id": "BlockL1-1D6"
+  },
+  {
+    "section_id": 14,
+    "chapter_id": 1,
+    "section_description": "Certain other viral diseases",
+    "block_id": "BlockL1-1D8"
+  },
+  {
+    "section_id": 15,
+    "chapter_id": 1,
+    "section_description": "Influenza",
+    "block_id": "BlockL1-1E3"
+  },
+  {
+    "section_id": 16,
+    "chapter_id": 1,
+    "section_description": "Viral hepatitis",
+    "block_id": "BlockL1-1E5"
+  },
+  {
+    "section_id": 17,
+    "chapter_id": 1,
+    "section_description": "Viral infections characterised by skin or mucous membrane lesions",
+    "block_id": "BlockL1-1E7"
+  },
+  {
+    "section_id": 18,
+    "chapter_id": 1,
+    "section_description": "Mycoses",
+    "block_id": "BlockL1-1F2"
+  },
+  {
+    "section_id": 19,
+    "chapter_id": 1,
+    "section_description": "Parasitic diseases",
+    "block_id": "BlockL1-1F4"
+  },
+  {
+    "section_id": 20,
+    "chapter_id": 1,
+    "section_description": "Sepsis",
+    "block_id": "BlockL1-1G4"
+  },
+  {
+    "section_id": 21,
+    "chapter_id": 1,
+    "section_description": "Sequelae of infectious diseases",
+    "block_id": "BlockL1-1G8"
+  },
+  {
+    "section_id": 1,
+    "chapter_id": 2,
+    "section_description": "Neoplasms of central nervous system or related structures",
+    "block_id": "BlockL1-2A0"
+  },
+  {
+    "section_id": 2,
+    "chapter_id": 2,
+    "section_description": "Neoplasms of haematopoietic or lymphoid tissues",
+    "block_id": "BlockL1-2A2"
+  },
+  {
+    "section_id": 3,
+    "chapter_id": 2,
+    "section_description": "Malignant neoplasms, except primary neoplasms of lymphoid, haematopoietic, central nervous system or related tissues",
+    "block_id": "BlockL1-2B5"
+  },
+  {
+    "section_id": 4,
+    "chapter_id": 2,
+    "section_description": "In situ neoplasms, except of lymphoid, haematopoietic, central nervous system or related tissues",
+    "block_id": "BlockL1-2E6"
+  },
+  {
+    "section_id": 5,
+    "chapter_id": 2,
+    "section_description": "Benign neoplasms, except of lymphoid, haematopoietic, central nervous system or related tissues",
+    "block_id": "BlockL1-2E8"
+  },
+  {
+    "section_id": 6,
+    "chapter_id": 2,
+    "section_description": "Neoplasms of uncertain behaviour, except of lymphoid, haematopoietic, central nervous system or related tissues",
+    "block_id": "BlockL1-2F7"
+  },
+  {
+    "section_id": 7,
+    "chapter_id": 2,
+    "section_description": "Neoplasms of unknown behaviour, except of lymphoid, haematopoietic, central nervous system or related tissues",
+    "block_id": "BlockL1-2F9"
+  },
+  {
+    "section_id": 1,
+    "chapter_id": 3,
+    "section_description": "Anaemias or other erythrocyte disorders",
+    "block_id": "BlockL1-3A0"
+  },
+  {
+    "section_id": 2,
+    "chapter_id": 3,
+    "section_description": "Coagulation defects, purpura or other haemorrhagic or related conditions",
+    "block_id": "BlockL1-3B1"
+  },
+  {
+    "section_id": 3,
+    "chapter_id": 3,
+    "section_description": "Diseases of spleen",
+    "block_id": "BlockL1-3B8"
+  },
+  {
+    "section_id": 1,
+    "chapter_id": 4,
+    "section_description": "Primary immunodeficiencies",
+    "block_id": "BlockL1-4A0"
+  },
+  {
+    "section_id": 2,
+    "chapter_id": 4,
+    "section_description": "Nonorgan specific systemic autoimmune disorders",
+    "block_id": "BlockL1-4A4"
+  },
+  {
+    "section_id": 3,
+    "chapter_id": 4,
+    "section_description": "Autoinflammatory disorders",
+    "block_id": "BlockL1-4A6"
+  },
+  {
+    "section_id": 4,
+    "chapter_id": 4,
+    "section_description": "Allergic or hypersensitivity conditions",
+    "block_id": "BlockL1-4A8"
+  },
+  {
+    "section_id": 5,
+    "chapter_id": 4,
+    "section_description": "Immune system disorders involving white cell lineages",
+    "block_id": "BlockL1-4B0"
+  },
+  {
+    "section_id": 6,
+    "chapter_id": 4,
+    "section_description": "Certain disorders involving the immune system",
+    "block_id": "BlockL1-4B2"
+  },
+  {
+    "section_id": 1,
+    "chapter_id": 5,
+    "section_description": "Endocrine diseases",
+    "block_id": "BlockL1-5A0"
+  },
+  {
+    "section_id": 2,
+    "chapter_id": 5,
+    "section_description": "Nutritional disorders",
+    "block_id": "BlockL1-5B5"
+  },
+  {
+    "section_id": 3,
+    "chapter_id": 5,
+    "section_description": "Metabolic disorders",
+    "block_id": "BlockL1-5C5"
+  },
+  {
+    "section_id": 4,
+    "chapter_id": 5,
+    "section_description": "Postprocedural endocrine or metabolic disorders",
+    "block_id": "BlockL1-5D4"
+  },
+  {
+    "section_id": 1,
+    "chapter_id": 6,
+    "section_description": "Neurodevelopmental disorders",
+    "block_id": "BlockL1-6A0"
+  },
+  {
+    "section_id": 2,
+    "chapter_id": 6,
+    "section_description": "Schizophrenia or other primary psychotic disorders",
+    "block_id": "BlockL1-6A2"
+  },
+  {
+    "section_id": 3,
+    "chapter_id": 6,
+    "section_description": "Catatonia",
+    "block_id": "BlockL1-6A4"
+  },
+  {
+    "section_id": 4,
+    "chapter_id": 6,
+    "section_description": "Mood disorders",
+    "block_id": "BlockL1-6A6"
+  },
+  {
+    "section_id": 5,
+    "chapter_id": 6,
+    "section_description": "Anxiety or fear-related disorders",
+    "block_id": "BlockL1-6B0"
+  },
+  {
+    "section_id": 6,
+    "chapter_id": 6,
+    "section_description": "Obsessive-compulsive or related disorders",
+    "block_id": "BlockL1-6B2"
+  },
+  {
+    "section_id": 7,
+    "chapter_id": 6,
+    "section_description": "Disorders specifically associated with stress",
+    "block_id": "BlockL1-6B4"
+  },
+  {
+    "section_id": 8,
+    "chapter_id": 6,
+    "section_description": "Dissociative disorders",
+    "block_id": "BlockL1-6B6"
+  },
+  {
+    "section_id": 9,
+    "chapter_id": 6,
+    "section_description": "Feeding or eating disorders",
+    "block_id": "BlockL1-6B8"
+  },
+  {
+    "section_id": 10,
+    "chapter_id": 6,
+    "section_description": "Elimination disorders",
+    "block_id": "BlockL1-6C0"
+  },
+  {
+    "section_id": 11,
+    "chapter_id": 6,
+    "section_description": "Disorders of bodily distress or bodily experience",
+    "block_id": "BlockL1-6C2"
+  },
+  {
+    "section_id": 12,
+    "chapter_id": 6,
+    "section_description": "Disorders due to substance use or addictive behaviours",
+    "block_id": "BlockL1-6C4"
+  },
+  {
+    "section_id": 13,
+    "chapter_id": 6,
+    "section_description": "Impulse control disorders",
+    "block_id": "BlockL1-6C7"
+  },
+  {
+    "section_id": 14,
+    "chapter_id": 6,
+    "section_description": "Disruptive behaviour or dissocial disorders",
+    "block_id": "BlockL1-6C9"
+  },
+  {
+    "section_id": 15,
+    "chapter_id": 6,
+    "section_description": "Personality disorders and related traits",
+    "block_id": "BlockL1-6D1"
+  },
+  {
+    "section_id": 16,
+    "chapter_id": 6,
+    "section_description": "Paraphilic disorders",
+    "block_id": "BlockL1-6D3"
+  },
+  {
+    "section_id": 17,
+    "chapter_id": 6,
+    "section_description": "Factitious disorders",
+    "block_id": "BlockL1-6D5"
+  },
+  {
+    "section_id": 18,
+    "chapter_id": 6,
+    "section_description": "Neurocognitive disorders",
+    "block_id": "BlockL1-6D7"
+  },
+  {
+    "section_id": 19,
+    "chapter_id": 6,
+    "section_description": "Mental or behavioural disorders associated with pregnancy, childbirth or the puerperium",
+    "block_id": "BlockL1-6E2"
+  },
+  {
+    "section_id": 20,
+    "chapter_id": 6,
+    "section_description": "Secondary mental or behavioural syndromes associated with disorders or diseases classified elsewhere",
+    "block_id": "BlockL1-6E6"
+  },
+  {
+    "section_id": 1,
+    "chapter_id": 7,
+    "section_description": "Insomnia disorders",
+    "block_id": "BlockL1-7A0"
+  },
+  {
+    "section_id": 2,
+    "chapter_id": 7,
+    "section_description": "Hypersomnolence disorders",
+    "block_id": "BlockL1-7A2"
+  },
+  {
+    "section_id": 3,
+    "chapter_id": 7,
+    "section_description": "Sleep-related breathing disorders",
+    "block_id": "BlockL1-7A4"
+  },
+  {
+    "section_id": 4,
+    "chapter_id": 7,
+    "section_description": "Circadian rhythm sleep-wake disorders",
+    "block_id": "BlockL1-7A6"
+  },
+  {
+    "section_id": 5,
+    "chapter_id": 7,
+    "section_description": "Sleep-related movement disorders",
+    "block_id": "BlockL1-7A8"
+  },
+  {
+    "section_id": 6,
+    "chapter_id": 7,
+    "section_description": "Parasomnia disorders",
+    "block_id": "BlockL1-7B0"
+  },
+  {
+    "section_id": 1,
+    "chapter_id": 8,
+    "section_description": "Movement disorders",
+    "block_id": "BlockL1-8A0"
+  },
+  {
+    "section_id": 2,
+    "chapter_id": 8,
+    "section_description": "Disorders with neurocognitive impairment as a major feature",
+    "block_id": "BlockL1-8A2"
+  },
+  {
+    "section_id": 3,
+    "chapter_id": 8,
+    "section_description": "Multiple sclerosis or other white matter disorders",
+    "block_id": "BlockL1-8A4"
+  },
+  {
+    "section_id": 4,
+    "chapter_id": 8,
+    "section_description": "Epilepsy or seizures",
+    "block_id": "BlockL1-8A6"
+  },
+  {
+    "section_id": 5,
+    "chapter_id": 8,
+    "section_description": "Headache disorders",
+    "block_id": "BlockL1-8A8"
+  },
+  {
+    "section_id": 6,
+    "chapter_id": 8,
+    "section_description": "Cerebrovascular diseases",
+    "block_id": "BlockL1-8B0"
+  },
+  {
+    "section_id": 7,
+    "chapter_id": 8,
+    "section_description": "Spinal cord disorders excluding trauma",
+    "block_id": "BlockL1-8B4"
+  },
+  {
+    "section_id": 8,
+    "chapter_id": 8,
+    "section_description": "Motor neuron diseases or related disorders",
+    "block_id": "BlockL1-8B6"
+  },
+  {
+    "section_id": 9,
+    "chapter_id": 8,
+    "section_description": "Disorders of nerve root, plexus or peripheral nerves",
+    "block_id": "BlockL1-8B8"
+  },
+  {
+    "section_id": 10,
+    "chapter_id": 8,
+    "section_description": "Diseases of neuromuscular junction or muscle",
+    "block_id": "BlockL1-8C6"
+  },
+  {
+    "section_id": 11,
+    "chapter_id": 8,
+    "section_description": "Cerebral palsy",
+    "block_id": "BlockL1-8D2"
+  },
+  {
+    "section_id": 12,
+    "chapter_id": 8,
+    "section_description": "Nutritional or toxic disorders of the nervous system",
+    "block_id": "BlockL1-8D4"
+  },
+  {
+    "section_id": 13,
+    "chapter_id": 8,
+    "section_description": "Disorders of cerebrospinal fluid pressure or flow",
+    "block_id": "BlockL1-8D6"
+  },
+  {
+    "section_id": 14,
+    "chapter_id": 8,
+    "section_description": "Disorders of autonomic nervous system",
+    "block_id": "BlockL1-8D8"
+  },
+  {
+    "section_id": 15,
+    "chapter_id": 8,
+    "section_description": "Human prion diseases",
+    "block_id": "BlockL1-8E0"
+  },
+  {
+    "section_id": 16,
+    "chapter_id": 8,
+    "section_description": "Disorders of consciousness",
+    "block_id": "BlockL1-8E2"
+  },
+  {
+    "section_id": 17,
+    "chapter_id": 8,
+    "section_description": "Certain disorders of the nervous system",
+    "block_id": "BlockL1-8E4"
+  },
+  {
+    "section_id": 18,
+    "chapter_id": 8,
+    "section_description": "Postprocedural disorders of the nervous system",
+    "block_id": "BlockL1-8E6"
+  },
+  {
+    "section_id": 1,
+    "chapter_id": 9,
+    "section_description": "Disorders of the ocular adnexa or orbit",
+    "block_id": "BlockL1-9A0"
+  },
+  {
+    "section_id": 2,
+    "chapter_id": 9,
+    "section_description": "Disorders of the eyeball - anterior segment",
+    "block_id": "BlockL1-9A6"
+  },
+  {
+    "section_id": 3,
+    "chapter_id": 9,
+    "section_description": "Disorders of the eyeball - posterior segment",
+    "block_id": "BlockL1-9B5"
+  },
+  {
+    "section_id": 4,
+    "chapter_id": 9,
+    "section_description": "Disorders of the eyeball affecting both anterior and posterior segments",
+    "block_id": "BlockL1-9C2"
+  },
+  {
+    "section_id": 5,
+    "chapter_id": 9,
+    "section_description": "Disorders of the visual pathways or centres",
+    "block_id": "BlockL1-9C4"
+  },
+  {
+    "section_id": 6,
+    "chapter_id": 9,
+    "section_description": "Glaucoma or glaucoma suspect",
+    "block_id": "BlockL1-9C6"
+  },
+  {
+    "section_id": 7,
+    "chapter_id": 9,
+    "section_description": "Strabismus or ocular motility disorders",
+    "block_id": "BlockL1-9C8"
+  },
+  {
+    "section_id": 8,
+    "chapter_id": 9,
+    "section_description": "Disorders of refraction or accommodation",
+    "block_id": "BlockL1-9D0"
+  },
+  {
+    "section_id": 9,
+    "chapter_id": 9,
+    "section_description": "Postprocedural disorders of eye or ocular adnexa",
+    "block_id": "BlockL1-9D2"
+  },
+  {
+    "section_id": 10,
+    "chapter_id": 9,
+    "section_description": "Impairment of visual functions",
+    "block_id": "BlockL1-9D4"
+  },
+  {
+    "section_id": 11,
+    "chapter_id": 9,
+    "section_description": "Vision impairment",
+    "block_id": "BlockL1-9D9"
+  },
+  {
+    "section_id": 1,
+    "chapter_id": 10,
+    "section_description": "Diseases of external ear",
+    "block_id": "BlockL1-AA0"
+  },
+  {
+    "section_id": 2,
+    "chapter_id": 10,
+    "section_description": "Diseases of middle ear or mastoid",
+    "block_id": "BlockL1-AA8"
+  },
+  {
+    "section_id": 3,
+    "chapter_id": 10,
+    "section_description": "Diseases of inner ear",
+    "block_id": "BlockL1-AB3"
+  },
+  {
+    "section_id": 4,
+    "chapter_id": 10,
+    "section_description": "Disorders with hearing impairment",
+    "block_id": "BlockL1-AB5"
+  },
+  {
+    "section_id": 5,
+    "chapter_id": 10,
+    "section_description": "Disorders of ear, not elsewhere classified",
+    "block_id": "BlockL1-AB7"
+  },
+  {
+    "section_id": 6,
+    "chapter_id": 10,
+    "section_description": "Postprocedural disorders of ear or mastoid process",
+    "block_id": "BlockL1-AB9"
+  },
+  {
+    "section_id": 1,
+    "chapter_id": 11,
+    "section_description": "Hypertensive diseases",
+    "block_id": "BlockL1-BA0"
+  },
+  {
+    "section_id": 2,
+    "chapter_id": 11,
+    "section_description": "Hypotension",
+    "block_id": "BlockL1-BA2"
+  },
+  {
+    "section_id": 3,
+    "chapter_id": 11,
+    "section_description": "Ischaemic heart diseases",
+    "block_id": "BlockL1-BA4"
+  },
+  {
+    "section_id": 4,
+    "chapter_id": 11,
+    "section_description": "Diseases of coronary artery",
+    "block_id": "BlockL1-BA8"
+  },
+  {
+    "section_id": 5,
+    "chapter_id": 11,
+    "section_description": "Pulmonary heart disease or diseases of pulmonary circulation",
+    "block_id": "BlockL1-BB0"
+  },
+  {
+    "section_id": 6,
+    "chapter_id": 11,
+    "section_description": "Pericarditis",
+    "block_id": "BlockL1-BB2"
+  },
+  {
+    "section_id": 7,
+    "chapter_id": 11,
+    "section_description": "Acute or subacute endocarditis",
+    "block_id": "BlockL1-BB4"
+  },
+  {
+    "section_id": 8,
+    "chapter_id": 11,
+    "section_description": "Heart valve diseases",
+    "block_id": "BlockL1-BB6"
+  },
+  {
+    "section_id": 9,
+    "chapter_id": 11,
+    "section_description": "Diseases of the myocardium or cardiac chambers",
+    "block_id": "BlockL1-BC4"
+  },
+  {
+    "section_id": 10,
+    "chapter_id": 11,
+    "section_description": "Cardiac arrhythmia",
+    "block_id": "BlockL1-BC6"
+  },
+  {
+    "section_id": 11,
+    "chapter_id": 11,
+    "section_description": "Heart failure",
+    "block_id": "BlockL1-BD1"
+  },
+  {
+    "section_id": 12,
+    "chapter_id": 11,
+    "section_description": "Diseases of arteries or arterioles",
+    "block_id": "BlockL1-BD3"
+  },
+  {
+    "section_id": 13,
+    "chapter_id": 11,
+    "section_description": "Diseases of veins",
+    "block_id": "BlockL1-BD7"
+  },
+  {
+    "section_id": 14,
+    "chapter_id": 11,
+    "section_description": "Disorders of lymphatic vessels or lymph nodes",
+    "block_id": "BlockL1-BD9"
+  },
+  {
+    "section_id": 15,
+    "chapter_id": 11,
+    "section_description": "Postprocedural disorders of circulatory system",
+    "block_id": "BlockL1-BE1"
+  },
+  {
+    "section_id": 1,
+    "chapter_id": 12,
+    "section_description": "Upper respiratory tract disorders",
+    "block_id": "BlockL1-CA0"
+  },
+  {
+    "section_id": 2,
+    "chapter_id": 12,
+    "section_description": "Certain lower respiratory tract diseases",
+    "block_id": "BlockL1-CA2"
+  },
+  {
+    "section_id": 3,
+    "chapter_id": 12,
+    "section_description": "Lung infections",
+    "block_id": "BlockL1-CA4"
+  },
+  {
+    "section_id": 4,
+    "chapter_id": 12,
+    "section_description": "Lung diseases due to external agents",
+    "block_id": "BlockL1-CA6"
+  },
+  {
+    "section_id": 5,
+    "chapter_id": 12,
+    "section_description": "Respiratory diseases principally affecting the lung interstitium",
+    "block_id": "BlockL1-CB0"
+  },
+  {
+    "section_id": 6,
+    "chapter_id": 12,
+    "section_description": "Pleural, diaphragm or mediastinal disorders",
+    "block_id": "BlockL1-CB2"
+  },
+  {
+    "section_id": 7,
+    "chapter_id": 12,
+    "section_description": "Postprocedural disorders of the respiratory system",
+    "block_id": "BlockL1-CB6"
+  },
+  {
+    "section_id": 1,
+    "chapter_id": 13,
+    "section_description": "Diseases or disorders of orofacial complex",
+    "block_id": "BlockL1-DA0"
+  },
+  {
+    "section_id": 2,
+    "chapter_id": 13,
+    "section_description": "Diseases of oesophagus",
+    "block_id": "BlockL1-DA2"
+  },
+  {
+    "section_id": 3,
+    "chapter_id": 13,
+    "section_description": "Diseases of the stomach or the duodenum",
+    "block_id": "BlockL1-DA4"
+  },
+  {
+    "section_id": 4,
+    "chapter_id": 13,
+    "section_description": "Diseases of small intestine",
+    "block_id": "BlockL1-DA9"
+  },
+  {
+    "section_id": 5,
+    "chapter_id": 13,
+    "section_description": "Diseases of appendix",
+    "block_id": "BlockL1-DB1"
+  },
+  {
+    "section_id": 6,
+    "chapter_id": 13,
+    "section_description": "Diseases of large intestine",
+    "block_id": "BlockL1-DB3"
+  },
+  {
+    "section_id": 7,
+    "chapter_id": 13,
+    "section_description": "Diseases of anal canal",
+    "block_id": "BlockL1-DB5"
+  },
+  {
+    "section_id": 8,
+    "chapter_id": 13,
+    "section_description": "Diseases of liver",
+    "block_id": "BlockL1-DB9"
+  },
+  {
+    "section_id": 9,
+    "chapter_id": 13,
+    "section_description": "Diseases of gallbladder or biliary tract",
+    "block_id": "BlockL1-DC1"
+  },
+  {
+    "section_id": 10,
+    "chapter_id": 13,
+    "section_description": "Diseases of pancreas",
+    "block_id": "BlockL1-DC3"
+  },
+  {
+    "section_id": 11,
+    "chapter_id": 13,
+    "section_description": "Diseases of peritoneum",
+    "block_id": "BlockL1-DC5"
+  },
+  {
+    "section_id": 12,
+    "chapter_id": 13,
+    "section_description": "Diverticular disease of intestine",
+    "block_id": "BlockL1-DC7"
+  },
+  {
+    "section_id": 13,
+    "chapter_id": 13,
+    "section_description": "Ischaemic vascular disorders of intestine",
+    "block_id": "BlockL1-DD3"
+  },
+  {
+    "section_id": 14,
+    "chapter_id": 13,
+    "section_description": "Hernias",
+    "block_id": "BlockL1-DD5"
+  },
+  {
+    "section_id": 15,
+    "chapter_id": 13,
+    "section_description": "Inflammatory bowel diseases",
+    "block_id": "BlockL1-DD7"
+  },
+  {
+    "section_id": 16,
+    "chapter_id": 13,
+    "section_description": "Functional gastrointestinal disorders",
+    "block_id": "BlockL1-DD9"
+  },
+  {
+    "section_id": 17,
+    "chapter_id": 13,
+    "section_description": "Postprocedural disorders of digestive system",
+    "block_id": "BlockL1-DE1"
+  },
+  {
+    "section_id": 1,
+    "chapter_id": 14,
+    "section_description": "Certain skin disorders attributable to infection or infestation",
+    "block_id": "BlockL1-EA0"
+  },
+  {
+    "section_id": 2,
+    "chapter_id": 14,
+    "section_description": "Inflammatory dermatoses",
+    "block_id": "BlockL1-EA8"
+  },
+  {
+    "section_id": 3,
+    "chapter_id": 14,
+    "section_description": "Metabolic or nutritional disorders affecting the skin",
+    "block_id": "BlockL1-EB9"
+  },
+  {
+    "section_id": 4,
+    "chapter_id": 14,
+    "section_description": "Genetic or developmental disorders affecting the skin",
+    "block_id": "BlockL1-EC1"
+  },
+  {
+    "section_id": 5,
+    "chapter_id": 14,
+    "section_description": "Sensory or psychological disorders affecting the skin",
+    "block_id": "BlockL1-EC9"
+  },
+  {
+    "section_id": 6,
+    "chapter_id": 14,
+    "section_description": "Skin disorders involving specific cutaneous structures",
+    "block_id": "BlockL1-ED5"
+  },
+  {
+    "section_id": 7,
+    "chapter_id": 14,
+    "section_description": "Skin disorders involving certain specific body regions",
+    "block_id": "BlockL1-EG3"
+  },
+  {
+    "section_id": 8,
+    "chapter_id": 14,
+    "section_description": "Skin disorders associated with pregnancy, the neonatal period or infancy",
+    "block_id": "BlockL1-EH1"
+  },
+  {
+    "section_id": 9,
+    "chapter_id": 14,
+    "section_description": "Adverse cutaneous reactions to medication",
+    "block_id": "BlockL1-EH6"
+  },
+  {
+    "section_id": 10,
+    "chapter_id": 14,
+    "section_description": "Skin disorders provoked by external factors",
+    "block_id": "BlockL1-EH9"
+  },
+  {
+    "section_id": 11,
+    "chapter_id": 14,
+    "section_description": "Benign proliferations, neoplasms and cysts of the skin",
+    "block_id": "BlockL1-EK7"
+  },
+  {
+    "section_id": 12,
+    "chapter_id": 14,
+    "section_description": "Disorders of the skin of uncertain or unpredictable malignant potential",
+    "block_id": "BlockL1-EK9"
+  },
+  {
+    "section_id": 13,
+    "chapter_id": 14,
+    "section_description": "Cutaneous markers of internal disorders",
+    "block_id": "BlockL1-EL1"
+  },
+  {
+    "section_id": 14,
+    "chapter_id": 14,
+    "section_description": "Postprocedural disorders of the skin",
+    "block_id": "BlockL1-EL5"
+  },
+  {
+    "section_id": 1,
+    "chapter_id": 15,
+    "section_description": "Arthropathies",
+    "block_id": "BlockL1-FA0"
+  },
+  {
+    "section_id": 2,
+    "chapter_id": 15,
+    "section_description": "Conditions associated with the spine",
+    "block_id": "BlockL1-FA7"
+  },
+  {
+    "section_id": 3,
+    "chapter_id": 15,
+    "section_description": "Soft tissue disorders",
+    "block_id": "BlockL1-FB3"
+  },
+  {
+    "section_id": 4,
+    "chapter_id": 15,
+    "section_description": "Osteopathies or chondropathies",
+    "block_id": "BlockL1-FB8"
+  },
+  {
+    "section_id": 1,
+    "chapter_id": 16,
+    "section_description": "Diseases of the female genital system",
+    "block_id": "BlockL1-GA0"
+  },
+  {
+    "section_id": 2,
+    "chapter_id": 16,
+    "section_description": "Diseases of the male genital system",
+    "block_id": "BlockL1-GA8"
+  },
+  {
+    "section_id": 3,
+    "chapter_id": 16,
+    "section_description": "Disorders of breast",
+    "block_id": "BlockL1-GB2"
+  },
+  {
+    "section_id": 4,
+    "chapter_id": 16,
+    "section_description": "Diseases of the urinary system",
+    "block_id": "BlockL1-GB4"
+  },
+  {
+    "section_id": 5,
+    "chapter_id": 16,
+    "section_description": "Other conditions of the genitourinary system",
+    "block_id": "BlockL1-GC4"
+  },
+  {
+    "section_id": 6,
+    "chapter_id": 16,
+    "section_description": "Postprocedural disorders of genitourinary system",
+    "block_id": "BlockL1-GC7"
+  },
+  {
+    "section_id": 1,
+    "chapter_id": 17,
+    "section_description": "Sexual dysfunctions",
+    "block_id": "BlockL1-HA0"
+  },
+  {
+    "section_id": 2,
+    "chapter_id": 17,
+    "section_description": "Sexual pain disorders",
+    "block_id": "BlockL1-HA2"
+  },
+  {
+    "section_id": 3,
+    "chapter_id": 17,
+    "section_description": "Gender incongruence",
+    "block_id": "BlockL1-HA6"
+  },
+  {
+    "section_id": 1,
+    "chapter_id": 18,
+    "section_description": "Abortive outcome of pregnancy",
+    "block_id": "BlockL1-JA0"
+  },
+  {
+    "section_id": 2,
+    "chapter_id": 18,
+    "section_description": "Oedema, proteinuria, or hypertensive disorders in pregnancy, childbirth, or the puerperium",
+    "block_id": "BlockL1-JA2"
+  },
+  {
+    "section_id": 3,
+    "chapter_id": 18,
+    "section_description": "Obstetric haemorrhage",
+    "block_id": "BlockL1-JA4"
+  },
+  {
+    "section_id": 4,
+    "chapter_id": 18,
+    "section_description": "Certain specified maternal disorders predominantly related to pregnancy",
+    "block_id": "BlockL1-JA6"
+  },
+  {
+    "section_id": 5,
+    "chapter_id": 18,
+    "section_description": "Maternal care related to the fetus, amniotic cavity or possible delivery problems",
+    "block_id": "BlockL1-JA8"
+  },
+  {
+    "section_id": 6,
+    "chapter_id": 18,
+    "section_description": "Complications of labour or delivery",
+    "block_id": "BlockL1-JB0"
+  },
+  {
+    "section_id": 7,
+    "chapter_id": 18,
+    "section_description": "Delivery",
+    "block_id": "BlockL1-JB2"
+  },
+  {
+    "section_id": 8,
+    "chapter_id": 18,
+    "section_description": "Complications predominantly related to the puerperium",
+    "block_id": "BlockL1-JB4"
+  },
+  {
+    "section_id": 9,
+    "chapter_id": 18,
+    "section_description": "Certain obstetric conditions, not elsewhere classified",
+    "block_id": "BlockL1-JB6"
+  },
+  {
+    "section_id": 1,
+    "chapter_id": 19,
+    "section_description": "Fetus or newborn affected by maternal factors or by complications of pregnancy, labour or delivery",
+    "block_id": "BlockL1-KA0"
+  },
+  {
+    "section_id": 2,
+    "chapter_id": 19,
+    "section_description": "Disorders of newborn related to length of gestation or fetal growth",
+    "block_id": "BlockL1-KA2"
+  },
+  {
+    "section_id": 3,
+    "chapter_id": 19,
+    "section_description": "Birth injury",
+    "block_id": "BlockL1-KA4"
+  },
+  {
+    "section_id": 4,
+    "chapter_id": 19,
+    "section_description": "Infections of the fetus or newborn",
+    "block_id": "BlockL1-KA6"
+  },
+  {
+    "section_id": 5,
+    "chapter_id": 19,
+    "section_description": "Haemorrhagic or haematological disorders of fetus or newborn",
+    "block_id": "BlockL1-KA8"
+  },
+  {
+    "section_id": 6,
+    "chapter_id": 19,
+    "section_description": "Neurological disorders specific to the perinatal or neonatal period",
+    "block_id": "BlockL1-KB0"
+  },
+  {
+    "section_id": 7,
+    "chapter_id": 19,
+    "section_description": "Respiratory disorders specific to the perinatal or neonatal period",
+    "block_id": "BlockL1-KB2"
+  },
+  {
+    "section_id": 8,
+    "chapter_id": 19,
+    "section_description": "Cardiovascular disorders present in the perinatal or neonatal period",
+    "block_id": "BlockL1-KB4"
+  },
+  {
+    "section_id": 9,
+    "chapter_id": 19,
+    "section_description": "Transitory endocrine or metabolic disorders specific to fetus or newborn",
+    "block_id": "BlockL1-KB6"
+  },
+  {
+    "section_id": 10,
+    "chapter_id": 19,
+    "section_description": "Digestive system disorders of fetus or newborn",
+    "block_id": "BlockL1-KB8"
+  },
+  {
+    "section_id": 11,
+    "chapter_id": 19,
+    "section_description": "Genitourinary system disorders specific to the perinatal or neonatal period",
+    "block_id": "BlockL1-KC0"
+  },
+  {
+    "section_id": 12,
+    "chapter_id": 19,
+    "section_description": "Disorders involving the integument of fetus or newborn",
+    "block_id": "BlockL1-KC2"
+  },
+  {
+    "section_id": 13,
+    "chapter_id": 19,
+    "section_description": "Disturbances of temperature regulation of newborn",
+    "block_id": "BlockL1-KD1"
+  },
+  {
+    "section_id": 14,
+    "chapter_id": 19,
+    "section_description": "Certain disorders originating in the perinatal period",
+    "block_id": "BlockL1-KD3"
+  },
+  {
+    "section_id": 1,
+    "chapter_id": 20,
+    "section_description": "Structural developmental anomalies primarily affecting one body system",
+    "block_id": "BlockL1-LA0"
+  },
+  {
+    "section_id": 2,
+    "chapter_id": 20,
+    "section_description": "Multiple developmental anomalies or syndromes",
+    "block_id": "BlockL1-LD2"
+  },
+  {
+    "section_id": 3,
+    "chapter_id": 20,
+    "section_description": "Chromosomal anomalies, excluding gene mutations",
+    "block_id": "BlockL1-LD4"
+  },
+  {
+    "section_id": 1,
+    "chapter_id": 21,
+    "section_description": "Symptoms, signs or clinical findings of blood, blood-forming organs, or the immune system",
+    "block_id": "BlockL1-MA0"
+  },
+  {
+    "section_id": 2,
+    "chapter_id": 21,
+    "section_description": "Symptoms, signs or clinical findings of endocrine, nutritional or metabolic diseases",
+    "block_id": "BlockL1-MA5"
+  },
+  {
+    "section_id": 3,
+    "chapter_id": 21,
+    "section_description": "Symptoms, signs or clinical findings of speech, language or voice",
+    "block_id": "BlockL1-MA8"
+  },
+  {
+    "section_id": 4,
+    "chapter_id": 21,
+    "section_description": "Mental or behavioural symptoms, signs or clinical findings",
+    "block_id": "BlockL1-MB2"
+  },
+  {
+    "section_id": 5,
+    "chapter_id": 21,
+    "section_description": "Symptoms, signs or clinical findings of the nervous system",
+    "block_id": "BlockL1-MB4"
+  },
+  {
+    "section_id": 6,
+    "chapter_id": 21,
+    "section_description": "Symptoms, signs or clinical findings of the visual system",
+    "block_id": "BlockL1-MC1"
+  },
+  {
+    "section_id": 7,
+    "chapter_id": 21,
+    "section_description": "Symptoms, signs or clinical findings of ear or mastoid process",
+    "block_id": "BlockL1-MC4"
+  },
+  {
+    "section_id": 8,
+    "chapter_id": 21,
+    "section_description": "Symptoms, signs or clinical findings of the circulatory system",
+    "block_id": "BlockL1-MC8"
+  },
+  {
+    "section_id": 9,
+    "chapter_id": 21,
+    "section_description": "Symptoms, signs or clinical findings of the respiratory system",
+    "block_id": "BlockL1-MD1"
+  },
+  {
+    "section_id": 10,
+    "chapter_id": 21,
+    "section_description": "Symptoms, signs or clinical findings of the digestive system or abdomen",
+    "block_id": "BlockL1-MD8"
+  },
+  {
+    "section_id": 11,
+    "chapter_id": 21,
+    "section_description": "Symptoms, signs or clinical findings involving the skin",
+    "block_id": "BlockL1-ME6"
+  },
+  {
+    "section_id": 12,
+    "chapter_id": 21,
+    "section_description": "Symptoms, signs or clinical findings of the musculoskeletal system",
+    "block_id": "BlockL1-ME8"
+  },
+  {
+    "section_id": 13,
+    "chapter_id": 21,
+    "section_description": "Symptoms, signs or clinical findings of the genitourinary system",
+    "block_id": "BlockL1-MF3"
+  },
+  {
+    "section_id": 14,
+    "chapter_id": 21,
+    "section_description": "General symptoms, signs or clinical findings",
+    "block_id": "BlockL1-MG2"
+  },
+  {
+    "section_id": 15,
+    "chapter_id": 21,
+    "section_description": "Ill-defined and unknown causes of mortality",
+    "block_id": "BlockL1-MH1"
+  },
+  {
+    "section_id": 1,
+    "chapter_id": 22,
+    "section_description": "Injuries to the head",
+    "block_id": "BlockL1-NA0"
+  },
+  {
+    "section_id": 2,
+    "chapter_id": 22,
+    "section_description": "Injuries to the neck",
+    "block_id": "BlockL1-NA2"
+  },
+  {
+    "section_id": 3,
+    "chapter_id": 22,
+    "section_description": "Injuries to the thorax",
+    "block_id": "BlockL1-NA8"
+  },
+  {
+    "section_id": 4,
+    "chapter_id": 22,
+    "section_description": "Injuries to the abdomen, lower back, lumbar spine or pelvis",
+    "block_id": "BlockL1-NB5"
+  },
+  {
+    "section_id": 5,
+    "chapter_id": 22,
+    "section_description": "Injuries to the shoulder or upper arm",
+    "block_id": "BlockL1-NC1"
+  },
+  {
+    "section_id": 6,
+    "chapter_id": 22,
+    "section_description": "Injuries to the elbow or forearm",
+    "block_id": "BlockL1-NC3"
+  },
+  {
+    "section_id": 7,
+    "chapter_id": 22,
+    "section_description": "Injuries to the wrist or hand",
+    "block_id": "BlockL1-NC5"
+  },
+  {
+    "section_id": 8,
+    "chapter_id": 22,
+    "section_description": "Injuries to the hip or thigh",
+    "block_id": "BlockL1-NC7"
+  },
+  {
+    "section_id": 9,
+    "chapter_id": 22,
+    "section_description": "Injuries to the knee or lower leg",
+    "block_id": "BlockL1-NC9"
+  },
+  {
+    "section_id": 10,
+    "chapter_id": 22,
+    "section_description": "Injuries to the ankle or foot",
+    "block_id": "BlockL1-ND1"
+  },
+  {
+    "section_id": 11,
+    "chapter_id": 22,
+    "section_description": "Injuries involving multiple body regions",
+    "block_id": "BlockL1-ND3"
+  },
+  {
+    "section_id": 12,
+    "chapter_id": 22,
+    "section_description": "Injuries to unspecified part of trunk, limb or body region",
+    "block_id": "BlockL1-ND5"
+  },
+  {
+    "section_id": 13,
+    "chapter_id": 22,
+    "section_description": "Effects of foreign body entering through natural orifice",
+    "block_id": "BlockL1-ND7"
+  },
+  {
+    "section_id": 14,
+    "chapter_id": 22,
+    "section_description": "Burns",
+    "block_id": "BlockL1-ND9"
+  },
+  {
+    "section_id": 15,
+    "chapter_id": 22,
+    "section_description": "Frostbite",
+    "block_id": "BlockL1-NE4"
+  },
+  {
+    "section_id": 16,
+    "chapter_id": 22,
+    "section_description": "Harmful effects of substances",
+    "block_id": "BlockL1-NE6"
+  },
+  {
+    "section_id": 17,
+    "chapter_id": 22,
+    "section_description": "Injury or harm arising from surgical or medical care, not elsewhere classified",
+    "block_id": "BlockL1-NE8"
+  },
+  {
+    "section_id": 18,
+    "chapter_id": 22,
+    "section_description": "Other or unspecified effects of external causes",
+    "block_id": "BlockL1-NF0"
+  },
+  {
+    "section_id": 1,
+    "chapter_id": 23,
+    "section_description": "Unintentional causes",
+    "block_id": "BlockL1-PA0"
+  },
+  {
+    "section_id": 2,
+    "chapter_id": 23,
+    "section_description": "Intentional self-harm",
+    "block_id": "BlockL1-PB8"
+  },
+  {
+    "section_id": 3,
+    "chapter_id": 23,
+    "section_description": "Assault",
+    "block_id": "BlockL1-PD5"
+  },
+  {
+    "section_id": 4,
+    "chapter_id": 23,
+    "section_description": "Undetermined intent",
+    "block_id": "BlockL1-PF4"
+  },
+  {
+    "section_id": 5,
+    "chapter_id": 23,
+    "section_description": "Exposure to extreme forces of nature",
+    "block_id": "BlockL1-PJ0"
+  },
+  {
+    "section_id": 6,
+    "chapter_id": 23,
+    "section_description": "Maltreatment",
+    "block_id": "BlockL1-PJ2"
+  },
+  {
+    "section_id": 7,
+    "chapter_id": 23,
+    "section_description": "Legal intervention",
+    "block_id": "BlockL1-PJ4"
+  },
+  {
+    "section_id": 8,
+    "chapter_id": 23,
+    "section_description": "Armed conflict",
+    "block_id": "BlockL1-PJ6"
+  },
+  {
+    "section_id": 9,
+    "chapter_id": 23,
+    "section_description": "Causes of healthcare related harm or injury",
+    "block_id": "BlockL1-PK8"
+  },
+  {
+    "section_id": 1,
+    "chapter_id": 24,
+    "section_description": "Reasons for contact with the health services",
+    "block_id": "BlockL1-QA0"
+  },
+  {
+    "section_id": 2,
+    "chapter_id": 24,
+    "section_description": "Factors influencing health status",
+    "block_id": "BlockL1-QD5"
+  },
+  {
+    "section_id": 1,
+    "chapter_id": 25,
+    "section_description": "International provisional assignment of new diseases of uncertain aetiology and emergency use",
+    "block_id": "BlockL1-RA0"
+  },
+  {
+    "section_id": 2,
+    "chapter_id": 25,
+    "section_description": "National provisional assignment of new diseases of uncertain aetiology",
+    "block_id": "BlockL1-RA2"
+  },
+  {
+    "section_id": 1,
+    "chapter_id": 26,
+    "section_description": "Module I",
+    "block_id": "BlockL1-SA0"
+  },
+  {
+    "section_id": 2,
+    "chapter_id": 26,
+    "section_description": "NOT TO BE TRANSLATED - PLEASE NOTE: This whole section is currently under development and is NOT to be translated for now. Title: Module II",
+    "block_id": "BlockL1-SK0"
+  },
+  {
+    "section_id": 1,
+    "chapter_id": 27,
+    "section_description": "WHODAS 2.0 36-item version"
+  },
+  {
+    "section_id": 2,
+    "chapter_id": 27,
+    "section_description": "Brief Model Disability Survey"
+  },
+  {
+    "section_id": 3,
+    "chapter_id": 27,
+    "section_description": "Generic functioning domains"
+  },
+  {
+    "section_id": 1,
+    "chapter_id": 28,
+    "section_description": "Severity Scale Value"
+  },
+  {
+    "section_id": 2,
+    "chapter_id": 28,
+    "section_description": "Temporality"
+  },
+  {
+    "section_id": 3,
+    "chapter_id": 28,
+    "section_description": "Aetiology"
+  },
+  {
+    "section_id": 4,
+    "chapter_id": 28,
+    "section_description": "- - - Helminths"
+  },
+  {
+    "section_id": 5,
+    "chapter_id": 28,
+    "section_description": "- - - Protozoa"
+  },
+  {
+    "section_id": 6,
+    "chapter_id": 28,
+    "section_description": "- - - Lice and Mites"
+  },
+  {
+    "section_id": 7,
+    "chapter_id": 28,
+    "section_description": "Topology Scale Value"
+  },
+  {
+    "section_id": 8,
+    "chapter_id": 28,
+    "section_description": "Anatomy and topography"
+  },
+  {
+    "section_id": 9,
+    "chapter_id": 28,
+    "section_description": "Histopathology"
+  },
+  {
+    "section_id": 10,
+    "chapter_id": 28,
+    "section_description": "Dimensions of injury"
+  },
+  {
+    "section_id": 11,
+    "chapter_id": 28,
+    "section_description": "Dimensions of external causes"
+  },
+  {
+    "section_id": 12,
+    "chapter_id": 28,
+    "section_description": "Consciousness"
+  },
+  {
+    "section_id": 13,
+    "chapter_id": 28,
+    "section_description": "Substances"
+  },
+  {
+    "section_id": 14,
+    "chapter_id": 28,
+    "section_description": "- - - - - Benzothiadiazine derivatives"
+  },
+  {
+    "section_id": 15,
+    "chapter_id": 28,
+    "section_description": "- - - - - Mineralocorticoids antagonists"
+  },
+  {
+    "section_id": 16,
+    "chapter_id": 28,
+    "section_description": "- - - - Aminophylline, theophylline and other xanthines"
+  },
+  {
+    "section_id": 17,
+    "chapter_id": 28,
+    "section_description": "- - - - Hydantoin derivatives"
+  },
+  {
+    "section_id": 18,
+    "chapter_id": 28,
+    "section_description": "- - - - - Dopamine agonists"
+  },
+  {
+    "section_id": 19,
+    "chapter_id": 28,
+    "section_description": "- - - - Methylenedioxymethamphetamine"
+  },
+  {
+    "section_id": 20,
+    "chapter_id": 28,
+    "section_description": "- - - - - Paraldehyde"
+  },
+  {
+    "section_id": 21,
+    "chapter_id": 28,
+    "section_description": "- - - - Fowl or egg"
+  },
+  {
+    "section_id": 22,
+    "chapter_id": 28,
+    "section_description": "- - - - Fish or seafood"
+  },
+  {
+    "section_id": 23,
+    "chapter_id": 28,
+    "section_description": "- - - - Insect or arthropod"
+  },
+  {
+    "section_id": 24,
+    "chapter_id": 28,
+    "section_description": "- - - - Milk or dairy"
+  },
+  {
+    "section_id": 25,
+    "chapter_id": 28,
+    "section_description": "Diagnosis code descriptors"
+  },
+  {
+    "section_id": 26,
+    "chapter_id": 28,
+    "section_description": "Capacity or context"
+  },
+  {
+    "section_id": 27,
+    "chapter_id": 28,
+    "section_description": "Health Devices, Equipment and Supplies"
+  }
+]
