@@ -1,17 +1,19 @@
+// src/cli.js
 const { Command } = require('commander');
+const fs = require('fs');
+const path = require('path');
 const logger = require('./utils/logger');
-const {
-  CLIENT_ID,
-  CLIENT_SECRET,
-  ICD_VERSION,
-  API_LANGUAGE,
-  OUTPUT_FORMAT,
-  OUTPUT_FILE,
+const { 
+  CLIENT_ID, 
+  CLIENT_SECRET, 
+  ICD_VERSION, 
+  API_LANGUAGE, 
+  OUTPUT_FORMAT, 
+  OUTPUT_FILE 
 } = require('./config');
 const { dumpIcdData } = require('./services/icdService');
 const { initCsvWriter } = require('./utils/csvWriter');
-const fs = require('fs');
-const path = require('path');
+const { JSONWriter } = require('./utils/jsonWriter');
 
 const program = new Command();
 
@@ -27,7 +29,6 @@ program
   .option('--output <filename>', 'Output filename', OUTPUT_FILE)
   .option('--language <lang>', 'Language code', API_LANGUAGE)
   .action(async (options) => {
-    // Extract CLI arguments
     const format = options.format || 'csv';
     const outFile = options.output || OUTPUT_FILE;
 
@@ -38,9 +39,11 @@ program
 
     try {
       if (format === 'csv') {
+        // CSV approach remains chunk-based
         const csvWriter = initCsvWriter(outFile);
         await runCsvDump(csvWriter);
       } else if (format === 'json') {
+        // Stream-based JSON approach
         await runJsonDump(outFile);
       } else {
         logger.error('Unsupported format. Use --format csv or --format json.');
@@ -52,16 +55,13 @@ program
   });
 
 /**
- * Dump in CSV format.
+ * Dump in CSV format (unchanged chunk approach).
  */
 async function runCsvDump(csvWriter) {
   const recordsBuffer = [];
 
-  // Called every time we process an entity
   async function onRecord(record) {
     recordsBuffer.push(record);
-
-    // Write in chunks to save memory
     if (recordsBuffer.length >= 500) {
       await csvWriter.writeRecords(recordsBuffer);
       recordsBuffer.length = 0;
@@ -80,29 +80,29 @@ async function runCsvDump(csvWriter) {
 }
 
 /**
- * Dump in JSON format.
+ * Dump in JSON format (stream-based).
  */
 async function runJsonDump(outFile) {
-  const fileStream = fs.createWriteStream(path.resolve(outFile), { flags: 'w' });
-  fileStream.write('['); // JSON array start
+  // We create 4 JSON files or a single big one?
+  // If single, we can just stream the records. If 4 separate, handle accordingly.
+  // For demonstration, let's do a SINGLE file streaming.
 
-  let firstRecord = true;
+  const fileStream = new JSONWriter(path.resolve(outFile));
+
+  // We'll write each record as a chunk
+  async function onRecord(record) {
+    fileStream.write(record);
+  }
 
   await dumpIcdData({
-    onRecord: async (record) => {
-      if (!firstRecord) fileStream.write(',');
-      fileStream.write(JSON.stringify(record, null, 2));
-      firstRecord = false;
-    },
+    onRecord,
     onEnd: () => {
-      fileStream.write(']'); // JSON array end
-      fileStream.end();
+      fileStream.end(); // finalize the JSON array
       logger.info('ICD dump to JSON complete.');
     },
   });
 }
 
-// Parse the CLI arguments
 program.parseAsync(process.argv);
 
 module.exports = program;
