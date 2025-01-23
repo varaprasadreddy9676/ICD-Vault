@@ -1,14 +1,13 @@
-
-// src/index.js
+const { connectDB } = require('./utils/db');
 const program = require('./cli');
 
 async function main() {
-  // Parse CLI commands
-  program.parse(process.argv);
+  await connectDB();
+  // The CLI parse will handle commands like 'fetch'
+  await program.parseAsync(process.argv);
 }
 
 main().catch((err) => {
-  // If there's any uncaught error, log and exit
   console.error('Fatal error:', err);
   process.exit(1);
 });

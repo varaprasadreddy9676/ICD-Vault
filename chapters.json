@@ -1,0 +1,226 @@
+[
+  {
+    "chapter_id": 1,
+    "chapter_description": "Certain infectious or parasitic diseases",
+    "chapter_version": "1.0",
+    "chapter_no": "01",
+    "foundation_uri": "http://id.who.int/icd/entity/1435254666",
+    "linearization_uri": "http://id.who.int/icd/release/11/beta/mms/1435254666"
+  },
+  {
+    "chapter_id": 2,
+    "chapter_description": "Neoplasms",
+    "chapter_version": "1.0",
+    "chapter_no": "02",
+    "foundation_uri": "http://id.who.int/icd/entity/1630407678",
+    "linearization_uri": "http://id.who.int/icd/release/11/beta/mms/1630407678"
+  },
+  {
+    "chapter_id": 3,
+    "chapter_description": "Diseases of the blood or blood-forming organs",
+    "chapter_version": "1.0",
+    "chapter_no": "03",
+    "foundation_uri": "http://id.who.int/icd/entity/1766440644",
+    "linearization_uri": "http://id.who.int/icd/release/11/beta/mms/1766440644"
+  },
+  {
+    "chapter_id": 4,
+    "chapter_description": "Diseases of the immune system",
+    "chapter_version": "1.0",
+    "chapter_no": "04",
+    "foundation_uri": "http://id.who.int/icd/entity/1954798891",
+    "linearization_uri": "http://id.who.int/icd/release/11/beta/mms/1954798891"
+  },
+  {
+    "chapter_id": 5,
+    "chapter_description": "Endocrine, nutritional or metabolic diseases",
+    "chapter_version": "1.0",
+    "chapter_no": "05",
+    "foundation_uri": "http://id.who.int/icd/entity/21500692",
+    "linearization_uri": "http://id.who.int/icd/release/11/beta/mms/21500692"
+  },
+  {
+    "chapter_id": 6,
+    "chapter_description": "Mental, behavioural or neurodevelopmental disorders",
+    "chapter_version": "1.0",
+    "chapter_no": "06",
+    "foundation_uri": "http://id.who.int/icd/entity/334423054",
+    "linearization_uri": "http://id.who.int/icd/release/11/beta/mms/334423054"
+  },
+  {
+    "chapter_id": 7,
+    "chapter_description": "Sleep-wake disorders",
+    "chapter_version": "1.0",
+    "chapter_no": "07",
+    "foundation_uri": "http://id.who.int/icd/entity/274880002",
+    "linearization_uri": "http://id.who.int/icd/release/11/beta/mms/274880002"
+  },
+  {
+    "chapter_id": 8,
+    "chapter_description": "Diseases of the nervous system",
+    "chapter_version": "1.0",
+    "chapter_no": "08",
+    "foundation_uri": "http://id.who.int/icd/entity/1296093776",
+    "linearization_uri": "http://id.who.int/icd/release/11/beta/mms/1296093776"
+  },
+  {
+    "chapter_id": 9,
+    "chapter_description": "Diseases of the visual system",
+    "chapter_version": "1.0",
+    "chapter_no": "09",
+    "foundation_uri": "http://id.who.int/icd/entity/868865918",
+    "linearization_uri": "http://id.who.int/icd/release/11/beta/mms/868865918"
+  },
+  {
+    "chapter_id": 10,
+    "chapter_description": "Diseases of the ear or mastoid process",
+    "chapter_version": "1.0",
+    "chapter_no": "10",
+    "foundation_uri": "http://id.who.int/icd/entity/1218729044",
+    "linearization_uri": "http://id.who.int/icd/release/11/beta/mms/1218729044"
+  },
+  {
+    "chapter_id": 11,
+    "chapter_description": "Diseases of the circulatory system",
+    "chapter_version": "1.0",
+    "chapter_no": "11",
+    "foundation_uri": "http://id.who.int/icd/entity/426429380",
+    "linearization_uri": "http://id.who.int/icd/release/11/beta/mms/426429380"
+  },
+  {
+    "chapter_id": 12,
+    "chapter_description": "Diseases of the respiratory system",
+    "chapter_version": "1.0",
+    "chapter_no": "12",
+    "foundation_uri": "http://id.who.int/icd/entity/197934298",
+    "linearization_uri": "http://id.who.int/icd/release/11/beta/mms/197934298"
+  },
+  {
+    "chapter_id": 13,
+    "chapter_description": "Diseases of the digestive system",
+    "chapter_version": "1.0",
+    "chapter_no": "13",
+    "foundation_uri": "http://id.who.int/icd/entity/1256772020",
+    "linearization_uri": "http://id.who.int/icd/release/11/beta/mms/1256772020"
+  },
+  {
+    "chapter_id": 14,
+    "chapter_description": "Diseases of the skin",
+    "chapter_version": "1.0",
+    "chapter_no": "14",
+    "foundation_uri": "http://id.who.int/icd/entity/1639304259",
+    "linearization_uri": "http://id.who.int/icd/release/11/beta/mms/1639304259"
+  },
+  {
+    "chapter_id": 15,
+    "chapter_description": "Diseases of the musculoskeletal system or connective tissue",
+    "chapter_version": "1.0",
+    "chapter_no": "15",
+    "foundation_uri": "http://id.who.int/icd/entity/1473673350",
+    "linearization_uri": "http://id.who.int/icd/release/11/beta/mms/1473673350"
+  },
+  {
+    "chapter_id": 16,
+    "chapter_description": "Diseases of the genitourinary system",
+    "chapter_version": "1.0",
+    "chapter_no": "16",
+    "foundation_uri": "http://id.who.int/icd/entity/30659757",
+    "linearization_uri": "http://id.who.int/icd/release/11/beta/mms/30659757"
+  },
+  {
+    "chapter_id": 17,
+    "chapter_description": "Conditions related to sexual health",
+    "chapter_version": "1.0",
+    "chapter_no": "17",
+    "foundation_uri": "http://id.who.int/icd/entity/577470983",
+    "linearization_uri": "http://id.who.int/icd/release/11/beta/mms/577470983"
+  },
+  {
+    "chapter_id": 18,
+    "chapter_description": "Pregnancy, childbirth or the puerperium",
+    "chapter_version": "1.0",
+    "chapter_no": "18",
+    "foundation_uri": "http://id.who.int/icd/entity/714000734",
+    "linearization_uri": "http://id.who.int/icd/release/11/beta/mms/714000734"
+  },
+  {
+    "chapter_id": 19,
+    "chapter_description": "Certain conditions originating in the perinatal period",
+    "chapter_version": "1.0",
+    "chapter_no": "19",
+    "foundation_uri": "http://id.who.int/icd/entity/1306203631",
+    "linearization_uri": "http://id.who.int/icd/release/11/beta/mms/1306203631"
+  },
+  {
+    "chapter_id": 20,
+    "chapter_description": "Developmental anomalies",
+    "chapter_version": "1.0",
+    "chapter_no": "20",
+    "foundation_uri": "http://id.who.int/icd/entity/223744320",
+    "linearization_uri": "http://id.who.int/icd/release/11/beta/mms/223744320"
+  },
+  {
+    "chapter_id": 21,
+    "chapter_description": "Symptoms, signs or clinical findings, not elsewhere classified",
+    "chapter_version": "1.0",
+    "chapter_no": "21",
+    "foundation_uri": "http://id.who.int/icd/entity/1843895818",
+    "linearization_uri": "http://id.who.int/icd/release/11/beta/mms/1843895818"
+  },
+  {
+    "chapter_id": 22,
+    "chapter_description": "Injury, poisoning or certain other consequences of external causes",
+    "chapter_version": "1.0",
+    "chapter_no": "22",
+    "foundation_uri": "http://id.who.int/icd/entity/435227771",
+    "linearization_uri": "http://id.who.int/icd/release/11/beta/mms/435227771"
+  },
+  {
+    "chapter_id": 23,
+    "chapter_description": "External causes of morbidity or mortality",
+    "chapter_version": "1.0",
+    "chapter_no": "23",
+    "foundation_uri": "http://id.who.int/icd/entity/850137482",
+    "linearization_uri": "http://id.who.int/icd/release/11/beta/mms/850137482"
+  },
+  {
+    "chapter_id": 24,
+    "chapter_description": "Factors influencing health status or contact with health services",
+    "chapter_version": "1.0",
+    "chapter_no": "24",
+    "foundation_uri": "http://id.who.int/icd/entity/1249056269",
+    "linearization_uri": "http://id.who.int/icd/release/11/beta/mms/1249056269"
+  },
+  {
+    "chapter_id": 25,
+    "chapter_description": "Codes for special purposes",
+    "chapter_version": "1.0",
+    "chapter_no": "25",
+    "foundation_uri": "http://id.who.int/icd/entity/1596590595",
+    "linearization_uri": "http://id.who.int/icd/release/11/beta/mms/1596590595"
+  },
+  {
+    "chapter_id": 26,
+    "chapter_description": "Supplementary Chapter Traditional Medicine Conditions",
+    "chapter_version": "1.0",
+    "chapter_no": "26",
+    "foundation_uri": "http://id.who.int/icd/entity/718687701",
+    "linearization_uri": "http://id.who.int/icd/release/11/beta/mms/718687701"
+  },
+  {
+    "chapter_id": 27,
+    "chapter_description": "Supplementary section for functioning assessment",
+    "chapter_version": "1.0",
+    "chapter_no": "V",
+    "foundation_uri": "http://id.who.int/icd/entity/231358748",
+    "linearization_uri": "http://id.who.int/icd/release/11/beta/mms/231358748"
+  },
+  {
+    "chapter_id": 28,
+    "chapter_description": "Extension Codes",
+    "chapter_version": "1.0",
+    "chapter_no": "X",
+    "foundation_uri": "http://id.who.int/icd/entity/979408586",
+    "linearization_uri": "http://id.who.int/icd/release/11/beta/mms/979408586"
+  }
+]
